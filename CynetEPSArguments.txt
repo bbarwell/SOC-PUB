@@ -1,1 +1,0 @@
-slb.cynet.com -port 443 -lightagent -cs -msi -tknv 1 -tkn 091277ac-af72-4049-bf68-2d7a91c1e78a -nosp
